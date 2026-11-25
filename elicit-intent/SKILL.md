@@ -1,6 +1,6 @@
 ---
 name: elicit-intent
-description: Find out what a person actually wants when they can't state it, by getting their reactions to concrete things instead of asking them for rules. Use this when a request could be done well in several different ways and a wrong guess is costly to redo, when someone answers with a quality word like "better", "cleaner", "more rigorous" or "more professional", when someone wants to set a standing rule, preference, style or standard for future work, and when drawing out an expert's judgment to write guidelines, rubrics, skills or eval cases. Do not use it for clear requests or for work that is cheap to redo.
+description: Find out what a person wants when they can't state it, by getting their reactions to concrete options instead of asking for rules. Use when someone describes what they want with a vague quality word ("better", "cleaner", "more rigorous"), wants to set a standing rule, style or standard, when drawing out an expert's judgment for guidelines, rubrics, skills or eval cases, or when a request has several readings and a wrong guess is costly or hard to undo. Not for clear requests or work that is cheap to redo.
 ---
 
 # Elicit intent
