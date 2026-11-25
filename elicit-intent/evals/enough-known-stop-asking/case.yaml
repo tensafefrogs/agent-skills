@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: enough-known-stop-asking
+expected_outcome: |
+  Enough is known, so the reply writes the update without asking anything more. Line one
+  states the slip plainly and carries the ask (approve one contractor for two weeks). The
+  other items follow as short bullets.

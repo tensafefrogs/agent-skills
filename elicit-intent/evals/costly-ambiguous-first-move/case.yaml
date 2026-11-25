@@ -1,0 +1,7 @@
+schema_version: "1.1"
+name: costly-ambiguous-first-move
+expected_outcome: |
+  Nothing is moved yet, because several folder schemes fit this list and a wrong one is
+  costly to undo. The reply shows two or more concrete candidate structures built from the
+  user's real file names and asks which is closer. It does not ask the user to describe
+  their preferred scheme in the abstract, and it does not send a list of questions.

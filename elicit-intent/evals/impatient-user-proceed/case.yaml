@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: impatient-user-proceed
+expected_outcome: |
+  The reply makes the call and delivers an agenda and pre-read the user can forward as is.
+  It says in a line or two which way it went and why, and it asks nothing the user has to
+  answer before using it.

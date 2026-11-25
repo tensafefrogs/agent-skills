@@ -1,0 +1,8 @@
+schema_version: "1.1"
+name: pick-given-find-the-limit
+expected_outcome: |
+  The user wants a standing rule, so the reply states the rule back using the user's own
+  reason (line one carries the status and the ask because the VP stops reading there) and
+  then checks where the rule stops with one concrete different situation, such as a week
+  with no ask, bad news, or a different reader. It does not fall back on an open "anything
+  else?" and it does not send a list of questions.

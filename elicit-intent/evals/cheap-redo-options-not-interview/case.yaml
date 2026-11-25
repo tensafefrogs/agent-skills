@@ -1,0 +1,5 @@
+schema_version: "1.1"
+name: cheap-redo-options-not-interview
+expected_outcome: |
+  The reply gives a handful of varied name ideas straight away. A wrong guess costs nothing
+  here, so there is no interview before the names.

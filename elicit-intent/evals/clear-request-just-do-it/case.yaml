@@ -1,0 +1,5 @@
+schema_version: "1.1"
+name: clear-request-just-do-it
+expected_outcome: |
+  The reply gives the four converted dates right away and asks nothing first, because the
+  request is clear.

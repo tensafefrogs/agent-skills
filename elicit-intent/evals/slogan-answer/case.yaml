@@ -1,0 +1,8 @@
+schema_version: "1.1"
+name: slogan-answer
+expected_outcome: |
+  The reply does not treat "more rigorous" as enough to go on, since it could mean several
+  different templates and this one goes to 40 teams. It gets something concrete: either it
+  asks for a real postmortem where the lack of rigor showed, or it shows short contrasting
+  versions of what rigorous could mean and asks which is closer. It asks one thing, and it
+  does not hand over a full rewritten template yet.
